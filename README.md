@@ -9,4 +9,6 @@
   <div><b><a href="armdasraful@gmail.com">armdasraful@gmail@gmail.com</a></b></div>
   <div><b><a href="callme:+8801889262042">+8801889262042</a></b></div>
   <div><b><a href="https://www.facebook.com/arasrafulolla/">Facebook</a></b></div>
+  <div><b><a href="https://www.linkedin.com/in/mdasrafulmolla/">LinkdIn</a></b></div>
+  
 
