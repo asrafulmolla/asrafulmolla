@@ -14,7 +14,7 @@
 - 🛠️Prblem Solving Profile's🔓
    <div align="left">
     <a href="https://codeforces.com/profile/asraful.diu" title="Codeforces">
-      <img width="56" height="56" src="https://drive.google.com/file/d/1qgkyyTsSm95lIRDrOfBMvvA9HK9zthma/view?usp=sharing"/>
+      <img width="40" height="40" src="https://drive.google.com/file/d/1qgkyyTsSm95lIRDrOfBMvvA9HK9zthma/view?usp=sharing"/>
     </a>
   </div>
   
