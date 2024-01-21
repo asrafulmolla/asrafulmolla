@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arasrafulmolla" target="blank"><img src="https://img.shields.io/twitter/follow/arasrafulmolla?logo=twitter&style=for-the-badge" alt="arasrafulmolla" /></a> </p>
 
-- 🌱 I’m currently learning **DSA && Competitive Programming**
+- 🌱 I’m currently learning **DSA && Competitive Programming...**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/mdasrafulmolla](https://sites.google.com/view/mdasrafulmolla)
 - 🛠️ Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mdasrafulmolla">StopStalk</a>
