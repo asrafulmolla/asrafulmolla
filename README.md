@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I’m currently Studying Department of **Computer Science and Engineering** at <a href="https://diu.ac/">Dhaka International University.</a>
 - 🌱 I’m currently learning **DSA && Competitive Programming...**
-- 🔭 Works on different types of projects. Like: <a href="https://github.com/asrafulmolla/Calculate_Area_of_different_types_of_shapes">Area Calculator</a> more & more.
+- 🔭 Works on different types of projects. Like: <a href="https://github.com/asrafulmolla/Calculate_Area_of_different_types_of_shapes">Area Calculator</a>.
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/mdasrafulmolla](https://sites.google.com/view/mdasrafulmolla)
 - 🛠️ Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mdasrafulmolla">StopStalk</a>
