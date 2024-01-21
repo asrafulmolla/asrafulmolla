@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/arasrafulmolla" target="blank"><img src="https://img.shields.io/twitter/follow/arasrafulmolla?logo=twitter&style=for-the-badge" alt="arasrafulmolla" /></a> </p>
 
 - 🌱 I’m currently learning **DSA && Competitive Programming...**
+- 🔭 Works on different types of projects. Like: <a href="https://github.com/asrafulmolla/Calculate_Area_of_different_types_of_shapes">Area Calculator</a> more & more.
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/mdasrafulmolla](https://sites.google.com/view/mdasrafulmolla)
 - 🛠️ Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mdasrafulmolla">StopStalk</a>
