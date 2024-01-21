@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arasrafulmolla" target="blank"><img src="https://img.shields.io/twitter/follow/arasrafulmolla?logo=twitter&style=for-the-badge" alt="arasrafulmolla" /></a> </p>
 
+- 🌱 I’m currently Studying Computer Science and Engineering at <a href="https://diu.ac/">Dhaka International University.</a>
 - 🌱 I’m currently learning **DSA && Competitive Programming...**
 - 🔭 Works on different types of projects. Like: <a href="https://github.com/asrafulmolla/Calculate_Area_of_different_types_of_shapes">Area Calculator</a> more & more.
 
