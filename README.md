@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **DSA && Competitive Programming...**
 - 🔭 Works on different types of projects. Like: <a href="https://github.com/asrafulmolla/Calculate_Area_of_different_types_of_shapes">Area Calculator</a>, <a href="https://github.com/asrafulmolla/Age_calculator">Age Calculator</a> .
 
-- 👨‍💻 All of my projects are available at <a https://sites.google.com/view/mdasrafulmolla">Projects</a>
+- 👨‍💻 All of my projects are available at <a href="ttps://sites.google.com/view/mdasrafulmolla">Projects</a>
 - 🛠️ Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mdasrafulmolla">StopStalk</a>
 
 - 📫 How to reach me **armdasraful@gmail.com**
