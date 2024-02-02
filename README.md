@@ -10,10 +10,9 @@
 - 🔭 Works on different types of projects.
 - 👨‍💻 All of my projects are available at: <a href="https://sites.google.com/view/mdasrafulmolla">Projects</a>
 - 🛠️ Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mdasrafulmolla">StopStalk</a>
-<img align="right" alt="Coding" width="200", src="https://github.com/asrafulmolla/Data-Structure-and-Algorithm-using-cpp/assets/128937137/838c444d-bc34-4579-8e5f-258d025efbba"></img>
 - 📫 How to reach me **armdasraful@gmail.com**
 - ⚡ Fun fact **01001101 01100100 00101110 00100000 01000001 01110011 01110010 01100001 01100110 01110101 01101100 00100000 01001101 01101111 01101100 01101100 01100001 😉**
-
+<img align="right" alt="Coding" width="200", src="https://github.com/asrafulmolla/Data-Structure-and-Algorithm-using-cpp/assets/128937137/838c444d-bc34-4579-8e5f-258d025efbba"></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arasrafulmolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arasrafulmolla" height="30" width="40" /></a>
