@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/arasrafulmolla" target="blank"><img src="https://img.shields.io/twitter/follow/arasrafulmolla?logo=twitter&style=for-the-badge" alt="arasrafulmolla" /></a> </p>
-<img align="right" alt="Coding" width="400", src="https://github.com/asrafulmolla/Data-Structure-and-Algorithm-using-cpp/assets/128937137/838c444d-bc34-4579-8e5f-258d025efbba"></img>
+<img align="right" alt="Coding" width="300", src="https://github.com/asrafulmolla/Data-Structure-and-Algorithm-using-cpp/assets/128937137/838c444d-bc34-4579-8e5f-258d025efbba"></img>
 - 👨‍🎓 I’m currently Studying Department of **Computer Science and Engineering** at <a href="https://diu.ac/">Dhaka International University.</a>
 - 🌱 I’m currently learning **DSA && Competitive Programming...**
 - 🔭 Works on different types of projects. Like: <a href="https://github.com/asrafulmolla/Calculate_Area_of_different_types_of_shapes">Area Calculator</a>, <a href="https://github.com/asrafulmolla/Age_calculator">Age Calculator</a> .
