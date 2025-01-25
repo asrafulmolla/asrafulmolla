@@ -6,7 +6,7 @@
 
 
 - 👨‍🎓 I’m currently Studying Department of **Computer Science and Engineering** at <a href="https://diu.ac/">Dhaka International University.</a>
-- 🌱 I’m currently learning **OOP Projects && Competitive Programming...**
+- 🌱 I’m currently learning **Django**
 - 🔭 Works on different types of projects.
 - 👨‍💻 All of my projects are available at: <a href="https://asrafulmolla.github.io/mdasrafulmolla">**Md Asraful Molla**</a>
 - 🛠️ Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mdasrafulmolla">**StopStalk**</a>
