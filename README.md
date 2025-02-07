@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at: <a href="https://asrafulmolla.github.io/mdasrafulmolla">**Md Asraful Molla**</a>
 - 🛠️ Problem solving profile :  <a href="https://www.stopstalk.com/user/profile/mdasrafulmolla">**StopStalk**</a>
 - 📫 How to reach me **armdasraful@gmail.com**
-- ⚡ Fun fact **01001101 01100100 00101110 00100000 01000001 01110011 01110010 01100001 01100110 01110101 01101100 00100000 01001101 01101111 01101100 01101100 01100001 😉**
+- ⚡ Fun fact **01001101 01100100 00101110 00100000 01000001 01110011 01110010 01100001 01100110 01110101 01101100 00100000 01001101 01101111 01101100 01101100 01100001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
