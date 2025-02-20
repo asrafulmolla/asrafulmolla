@@ -13,8 +13,8 @@
 - 📫 How to reach me **armdasraful@gmail.com**
 - ⚡ Fun fact **01001101 01100100 00101110 00100000 01000001 01110011 01110010 01100001 01100110 01110101 01101100 00100000 01001101 01101111 01101100 01101100 01100001**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me :</h3>
+<p align="left"> 
 <a href="https://twitter.com/arasrafulmolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arasrafulmolla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdasrafulmolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdasrafulmolla" height="30" width="40" /></a>
 <a href="https://fb.com/arasrafulolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arasrafulolla" height="30" width="40" /></a>
