@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/arasrafulmolla" target="blank"><img src="https://img.shields.io/twitter/follow/arasrafulmolla?logo=twitter&style=for-the-badge" alt="arasrafulmolla" /></a> </p>
 
 
-- 👨‍🎓 I’m currently Studying Department of **Computer Science and Engineering** at <a href="https://diu.ac/">Dhaka International University.</a>
+- 👨‍🎓 I’m currently Studying Department of **Computer Science and Engineering (CSE)** at <a href="https://diu.ac/">Dhaka International University.</a>
 - 🌱 I’m currently learning **Django...**
 - 🔭 Works on different types of projects.
 - 👨‍💻 All of my projects are available at: <a href="https://asrafulmolla.github.io/mdasrafulmolla">**Md Asraful Molla**</a>
