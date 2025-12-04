@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Asraful Molla</h1>
-<h3 align="center">Python & Django Developer | C, C++, Python, JavaScript | NASA Space Apps 2025 Global Nominee & Champion (Barisal) | ICPC Asia Dhaka 2024 Honorable Mention | AI/ML Enthusiast</h3>
+<h3 align="center">Python & Django Developer | C, C++, Python, JavaScript | NASA International Space Apps 2025 Honorable mention, Global Nominee & Champion (Barisal) | ICPC Asia Dhaka 2024 Honorable Mention | AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrafulmolla&label=Profile%20views&color=0e75b6&style=flat" alt="asrafulmolla" /> </p>
 
