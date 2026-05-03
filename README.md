@@ -17,7 +17,6 @@
 | :--- | :--- |
 | **NASA Space Apps 2025** | Global Nominee, Honorable Mention & Barisal Champion |
 | **ICPC Asia Dhaka 2024** | Honorable Mention |
-| **NASA Space Apps 2024** | Global Nominee & Barisal Champion |
 
 </div>
 
