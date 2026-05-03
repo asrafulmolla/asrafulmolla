@@ -3,7 +3,7 @@
 # 🚀 Md. Asraful Molla
 ### **Python & Django Developer | AI/ML Enthusiast | Competitive Programmer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+%26+Django+Expert;NASA+Space+Apps+Global+Nominee;ICPC+Regionalist;AI%2FML+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+%26+Django+Expert;NASA+Space+Apps+Global+Nominee;AI%2FML+Researcher)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asrafulmolla&label=Profile%20views&color=0e75b6&style=flat-square" alt="asrafulmolla" />
