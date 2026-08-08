@@ -23,10 +23,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Currently studying **Computer Science and Engineering (CSE)** at [Dhaka International University](https://diu.ac/).
+- 🎓 Currently studying **Computer Science and Engineering (CSE)** at [Dhaka International University]([https://diu.ac/](https://students.diu.ac/profile/mdasrafulmolla)).
 - 🌱 Deep diving into **Advanced Django, Scalable Architectures, and AI/ML**.
 - 🛠️ Active Problem Solver on [StopStalk](https://www.stopstalk.com/user/profile/mdasrafulmolla).
-- 📝 I share my technical journey and tutorials on my [Personal Blog](https://asraful.theuniqueonlineshop.com/blog/).
 - ⚡ Fun Fact: `01001101 01100100 00101110 00100000 01000001 01110011 01110010 01100001 01100110 01110101 01101100 00100000 01001101 01101111 01101100 01101100 01100001` (Decode it!)
 
 ---
